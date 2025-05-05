@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm twenty years old<br>Software Engineering Student<br>I like studying front-end and data</p>
+<p align="center">I'm twenty years old<br>Software Engineering Student<br>I like studying automation, front-end and data</p>
 
 ###
 
